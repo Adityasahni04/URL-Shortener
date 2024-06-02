@@ -1,6 +1,6 @@
 # URL-Shortener
 
-This project is a full-stack application designed to convert long URLs into short, easily shareable links. Users can input a long URL and receive a shortened version that redirects to the original site.
+In this project  a full-stack application is designed to convert long URLs into short, easily shareable links. Users can input a long URL and receive a shortened version that redirects to the original site.
 
 ## Features
 
